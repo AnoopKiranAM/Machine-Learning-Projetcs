@@ -1,1 +1,4 @@
-Video Link : https://www.youtube.com/watch?v=4HyTlbHUKSw
+## Exploratory Data Analysis
+* Using Univariate Analysis
+* Using Bivariate Analysis
+* Using Pandas Profiling 
