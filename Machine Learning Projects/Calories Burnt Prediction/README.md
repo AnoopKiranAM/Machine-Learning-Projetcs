@@ -1,9 +1,8 @@
-# Machine-Learning-Projetcs
+# Machine-Learning-Project 
 
-* Gathering Data
-* Data preparation - Using Exploratory Data Analysis (EDA)
-* Data Wrangling
-* Analise Data
-* Train the model
-* Test the model
-* Deployment
+## Calories Burnt Prediction Project
+
+This video is about Calories burnt prediction using Machine Learning with Python. For this prediction, I have used XGBoost Regressor model. 
+
+- Dataset file: https://www.kaggle.com/fmendes/fmendesdat263xdemos/version/1
+
